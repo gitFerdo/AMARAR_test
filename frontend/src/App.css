@@ -1,0 +1,84 @@
+*{
+  font-family: Manuale;
+}
+body{
+  background-color:#F2F2F8;
+  padding: 5%;
+}
+
+.form{
+  width: 55%;
+  height: 70vh;
+  margin-left: 22%;
+  border-radius: 12px;
+  margin-top: 80px;
+  background-color: #9b9999;
+  font-size: 25px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.6);
+}
+.topcontain{
+  margin-left: 8%;
+  padding-top: 20px;
+}
+.middlecontain{
+  margin-top: 5%;
+  margin-left: 20%;
+}
+
+.bottomcontain{
+  margin-top: -150px;
+}
+h1{
+  color: #326346;
+  margin-left: 20%;
+  font-weight: bold;
+  margin-top: 5%;
+  font-size: 40px;
+
+}
+hr{
+  width: 82%;
+  height: 2px;
+  background-color: #326346;
+  border: none;
+  margin-top: -15px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+h2{
+  font-style: normal;
+  color: #326346;
+  font-weight: 100;
+  font-size: 35px;
+  padding-top: 20px;
+  padding-left: 20px;
+
+
+}
+
+#radio{
+  margin-left: 20px;
+  
+
+}
+.textinput{
+  border-radius: 8px;
+  width: 45%;
+  height: 35px;
+  font-size: 20px;
+}
+.textarea{
+  height: 85px;
+  width: 65%;
+  border-radius: 8px;
+  margin-top: 8px;
+  font-size: 20px;
+}
+#email{
+  margin-left: 92px;
+}
+#username{
+  margin-left: 40px;
+}
+
+
