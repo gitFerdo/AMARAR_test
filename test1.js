@@ -3,7 +3,9 @@ import React from 'react'
 function test1 ()
 {
     return (
-        <div>test1</div>
+        <div>
+            test main rules
+        </div>
     )
 }
 
